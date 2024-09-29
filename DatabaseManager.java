@@ -2,7 +2,7 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 
-// neaizmirsti izdzēst paroli pirms rādi savu ekrānu
+// ATCERIES IELIKT PAROLI
 public class DatabaseManager {
     private static final String DB = "jdbc:mysql://localhost:3306/Izdevumi";
     private static final String USER = "root";
