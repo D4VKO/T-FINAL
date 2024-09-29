@@ -4,6 +4,9 @@ import java.awt.event.ActionListener;
 import java.util.List;
 
 // UI
+// daļēja iedvesma/pamācība ņemta no interneta, sakarā ar Swing priekš vienkāršā 
+// GUI un dažām rindiņām! <3
+
 public class ExpenseManagerGUI extends JFrame {
     private JTextField dateField;
     private JTextField amountField;
